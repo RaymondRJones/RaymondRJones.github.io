@@ -1,16 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>codex</title>
+    <title>Raymond</title>
     <link>https://example.org/</link>
-    <description>Recent content on codex</description>
+    <description>Recent content on Raymond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Tue, 11 Aug 2020 14:34:13 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 19:03:24 -0500</lastBuildDate>
     
 	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Story</title>
+      <link>https://example.org/blog/my-story/</link>
+      <pubDate>Wed, 12 Aug 2020 19:03:24 -0500</pubDate>
+      
+      <guid>https://example.org/blog/my-story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Books</title>
+      <link>https://example.org/blog/best-books/</link>
+      <pubDate>Wed, 12 Aug 2020 18:49:28 -0500</pubDate>
+      
+      <guid>https://example.org/blog/best-books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Now</title>
+      <link>https://example.org/blog/now/</link>
+      <pubDate>Wed, 12 Aug 2020 18:48:45 -0500</pubDate>
+      
+      <guid>https://example.org/blog/now/</guid>
+      <description>Working Full TimeI’ve been living in my home-town in Pensacola since March. A few days ago I started working as a software developer for Citibank. Most of my days are spent at my computer desk, which is a shocking difference to what I’m used to. However, when Coronavirus ends, I might be moving into Tampa, having a more normal life. On the bright side, I can use my friends home gym and spend more time writing stuff like this.</description>
+    </item>
+    
+    <item>
+      <title>College Decision Day</title>
+      <link>https://example.org/blog/college-decision-day/</link>
+      <pubDate>Tue, 11 Aug 2020 14:34:13 -0500</pubDate>
+      
+      <guid>https://example.org/blog/college-decision-day/</guid>
+      <description>It&amp;rsquo;s that special, wonderful time of the year. Thousands of students wake up each month with a mixed sense of anxiety and excitement. When their classes end, they&amp;rsquo;ll go home and hear about how their friends got accepted into Duke and MIT, then they&amp;rsquo;ll schizophrenically debate with themselves whether they should check or not if they got into their dream school. I mean, if Thomas got in, then why shouldn&amp;rsquo;t they?</description>
+    </item>
     
     <item>
       <title>New Post</title>
@@ -18,6 +54,15 @@
       <pubDate>Tue, 11 Aug 2020 14:34:13 -0500</pubDate>
       
       <guid>https://example.org/blog/new-post/</guid>
+      <description>Some Example Text</description>
+    </item>
+    
+    <item>
+      <title>New Post</title>
+      <link>https://example.org/now/new-post/</link>
+      <pubDate>Tue, 11 Aug 2020 14:34:13 -0500</pubDate>
+      
+      <guid>https://example.org/now/new-post/</guid>
       <description></description>
     </item>
     

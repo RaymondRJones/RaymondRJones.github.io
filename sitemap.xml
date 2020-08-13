@@ -4,16 +4,46 @@
   
   <url>
     <loc>https://example.org/</loc>
-    <lastmod>2020-08-11T14:34:13-05:00</lastmod>
+    <lastmod>2020-08-12T19:03:24-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.org/blog/</loc>
+    <lastmod>2020-08-12T19:03:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/my-story/</loc>
+    <lastmod>2020-08-12T19:03:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/best-books/</loc>
+    <lastmod>2020-08-12T18:49:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/now/</loc>
+    <lastmod>2020-08-12T18:48:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/now/</loc>
+    <lastmod>2020-08-11T14:34:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/college-decision-day/</loc>
     <lastmod>2020-08-11T14:34:13-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.org/blog/new-post/</loc>
+    <lastmod>2020-08-11T14:34:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/now/new-post/</loc>
     <lastmod>2020-08-11T14:34:13-05:00</lastmod>
   </url>
   
