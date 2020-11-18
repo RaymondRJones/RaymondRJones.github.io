@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 15 Aug 2020 18:59:18 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2020 22:11:28 -0500</lastBuildDate>
     
 	<atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I&#39;m spending $1000 to learn Korean</title>
+      <link>https://example.org/blog/learning-korean-1/</link>
+      <pubDate>Tue, 10 Nov 2020 22:11:28 -0500</pubDate>
+      
+      <guid>https://example.org/blog/learning-korean-1/</guid>
+      <description>Since August of 2019, I’ve been learning Korean. For longest time, I’ve wanted to continue learning it, but I’ve been woefully unmotivated. That’s changing today, and I’m going to invest $1000 towards being able to speak the language.
+I’m doing this, partly because I want to be outrageous and partly because I want to commit to learning another language.
+My Favorite Language Learning Strategies
+I’m constantly evaluating my strategy, and I think I’ve found a winning one.</description>
+    </item>
     
     <item>
       <title>How to Invest</title>
@@ -19,7 +31,7 @@
       
       <guid>https://example.org/blog/how-to-invest/</guid>
       <description>I’ve heard people describe investing as complicated or scary. I wanted to change that. I’ve read like 5 different finance books, and I like money. I end up telling my friends this stuff because I think it’s interesting. Also, investing late, or worse, never investing, can easily lose $100,000+ in gains.
-Warren Buffet and most financial advisors agree that a lifecycle fund or index fund is the best way to invest as a beginner.</description>
+Warren Buffet and most financial advisors agree that a lifecycle fund or an index fund is the best way to invest as a beginner.</description>
     </item>
     
     <item>
