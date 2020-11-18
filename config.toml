@@ -2,7 +2,7 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "codex"
+title = "Raymond"
 languageCode = "en-us"
 baseURL = "https://example.org/"
 copyright = "© {year}"
@@ -22,7 +22,7 @@ copyright = "© {year}"
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   #twitter = "https://twitter.com/<your handle>"
   github = "https://github.com/RaymondRJones"
-  # email = "mailto:<your email>"
+  # email = "mailto:Rayjones2170@gmail.com"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
   # instagram = "https://instagram.com/<your handle>"
@@ -65,3 +65,4 @@ copyright = "© {year}"
   name = "blog"
   title = "Blog"
   url = "/blog"
+

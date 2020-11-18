@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm Raymond"
-subheading: "Software Developer"
+subheading: "Software Engineer."
 handle: "ItsRaymondJones"
 ---

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raymond</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Raymond</description>
+    <title>Blogs on Raymond</title>
+    <link>https://example.org/blog/</link>
+    <description>Recent content in Blogs on Raymond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
     <lastBuildDate>Tue, 10 Nov 2020 22:11:28 -0500</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -86,15 +86,6 @@ I’ve been running probably the most since I was in high school, and I can than
       
       <guid>https://example.org/blog/new-post/</guid>
       <description>Some Example Text</description>
-    </item>
-    
-    <item>
-      <title>New Post</title>
-      <link>https://example.org/now/new-post/</link>
-      <pubDate>Tue, 11 Aug 2020 14:34:13 -0500</pubDate>
-      
-      <guid>https://example.org/now/new-post/</guid>
-      <description></description>
     </item>
     
   </channel>

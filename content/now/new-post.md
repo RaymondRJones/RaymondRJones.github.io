@@ -9,5 +9,3 @@ tags: []
 math: false
 toc: false
 ---
-
-Some Example Text

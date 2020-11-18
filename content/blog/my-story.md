@@ -1,6 +1,6 @@
 ---
-title: "New Post"
-date: 2020-08-11T14:34:13-05:00
+title: "My Story"
+date: 2020-08-12T19:03:24-05:00
 slug: ""
 description: ""
 keywords: []
@@ -9,5 +9,3 @@ tags: []
 math: false
 toc: false
 ---
-
-Some Example Text

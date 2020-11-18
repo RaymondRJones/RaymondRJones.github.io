@@ -1,0 +1,62 @@
+{{ define "styles" }}
+    {{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/about.scss" "dest" "css/about.css") }}
+{{ end }}
+
+{{ define "main" }}
+
+<div class="splash-container">
+  <div class="splash">
+    
+    <h1>{{ .Params.heading }}<span class="fancy">.</span></h1>
+    {{ if isset .Params "handle" }}
+  <!--
+
+    <span class="handle">@{{ .Params.handle }}</span>-->
+    {{ end }}
+    <h2>
+      {{ .Params.subheading }}
+    </h2>
+    <!-- Replace MEEEEE -->
+    {{ partial "social-icons.html" .}}
+
+
+<br>
+<p>
+  I keep seeing people write about how <a href="https://nownownow.com/about">
+    making a personal site</a> is the best thing since <a href="https://writing.markchristian.org/2019/04/29/personal-web-sites/?c=1"> sliced bread </a> . 
+  and I figured, "Hey, I like writing". So here we are.
+  <br>
+  I'm planning on adding more info in the upcoming days, so I
+  guess you could look forward to that. 
+</p>
+
+  <p>
+        
+      I graduated from the University of Florida in 2020 with degree in Computer Science.
+        <br>
+        You can see <a href="blog/now"> what I'm doing now  here </a>. Also feel free to read <a href="blog/my-story">my story</a>
+        <br><br>
+        I read a lot and have a list of <a href="blog/best-books">  my favorite books here </a>
+        <br><br>
+        In programming, my favorite sites I've built are <a href="https://gatorplacer.herokuapp.com/" target="_blank">  GatorPlacr</a>, <a href="http://socialcompass2020.herokuapp.com/">  SeatCompass</a>, 
+        and this little <a href="https://poker-variance-calculator.herokuapp.com/">  poker calculator</a>.
+        My Github is also here. 
+        <br>
+        Also
+        <a href="https://drive.google.com/file/d/13BwKxfVXQ19vw4cDd3Qs26_2L6pKs96T/view?usp=sharing" > my Resume. </a>
+
+
+
+    </p>
+
+
+  </div>
+
+  
+</div>
+
+<div>
+
+
+</div>
+{{ end }}
