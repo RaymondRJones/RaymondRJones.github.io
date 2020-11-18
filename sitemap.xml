@@ -4,12 +4,17 @@
   
   <url>
     <loc>https://example.org/</loc>
-    <lastmod>2020-11-10T22:11:28-05:00</lastmod>
+    <lastmod>2020-11-17T23:16:03-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.org/blog/</loc>
-    <lastmod>2020-11-10T22:11:28-05:00</lastmod>
+    <lastmod>2020-11-17T23:16:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/the-amazing-chromeos/</loc>
+    <lastmod>2020-11-17T23:16:03-05:00</lastmod>
   </url>
   
   <url>
