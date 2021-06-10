@@ -7,51 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 10 Jun 2021 18:20:17 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2020 18:59:18 -0500</lastBuildDate>
     
 	<atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Learning From Failure</title>
-      <link>https://example.org/blog/learning-from-failure/</link>
-      <pubDate>Thu, 10 Jun 2021 18:20:17 -0400</pubDate>
-      
-      <guid>https://example.org/blog/learning-from-failure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Updates</title>
-      <link>https://example.org/blog/updates/</link>
-      <pubDate>Thu, 10 Jun 2021 18:13:15 -0400</pubDate>
-      
-      <guid>https://example.org/blog/updates/</guid>
-      <description>Where I’ve Been
-It’s been 8 months since I’ve last publicly written something. And the time really flew by quickly, since November 2020, I’m not really sure what I’ve been doing. In January, I started becoming involved with political discussion, and I would listen to Destiny debate various topics. At the same time, I was intensely studying poker to improve my ability in the game. And overall, I think the year of poker was a decent success, although I’ll save that story for another day.</description>
-    </item>
-    
-    <item>
-      <title>Coding with Raymond - How to Get Minecraft on a Chromebook</title>
-      <link>https://example.org/blog/the-amazing-chromeos/</link>
-      <pubDate>Tue, 17 Nov 2020 23:16:03 -0500</pubDate>
-      
-      <guid>https://example.org/blog/the-amazing-chromeos/</guid>
-      <description>I have two sisters that are in 6th grade. Because their brains are so malleable, I figured I’d introduce them into the first step of using computers, by playing Minecraft. In most cases, it’d be simple. Just buy Minecraft and tell them to download it. Unfortunately, this did not happen.
-They told me they were using ChromeOS, which can’t run Minecraft. Everything was downhill from there. This is the cautionary tale of my journey to ChromeOS.</description>
-    </item>
-    
-    <item>
-      <title>I&#39;m spending $1000 to learn Korean</title>
-      <link>https://example.org/blog/learning-korean-1/</link>
-      <pubDate>Tue, 10 Nov 2020 22:11:28 -0500</pubDate>
-      
-      <guid>https://example.org/blog/learning-korean-1/</guid>
-      <description>Since August of 2019, I’ve been learning Korean. For longest time, I’ve wanted to continue learning it, but I’ve been woefully unmotivated. That’s changing today, and I’m going to invest $1000 towards being able to speak the language.
-I’m doing this, partly because I want to be outrageous and partly because I want to commit to learning another language.
-My Favorite Language Learning Strategies
-I’m constantly evaluating my strategy, and I think I’ve found a winning one.</description>
-    </item>
     
     <item>
       <title>How to Invest</title>
@@ -93,10 +52,7 @@ A book of even more problems than CTCI, AND they’re harder. I solved a lot of 
       <pubDate>Wed, 12 Aug 2020 18:48:45 -0500</pubDate>
       
       <guid>https://example.org/blog/now/</guid>
-      <description>Last Updated: November 17th, 2020Working Full Time
-I’ve been developing software for Citibank since August. Most of my days are spent at my computer desk, which is a shocking difference to what I’m used to. Their office won’t be opening until March, so I might just live with my parents and save money until then.
-Improving Cardio
-I’ve been running probably the most since I was in high school, and I can thank David Goggins for motivating me for that.</description>
+      <description>Working Full TimeI’ve been living in my home-town in Pensacola since March. A few days ago I started working as a software developer for Citibank. Most of my days are spent at my computer desk, which is a shocking difference to what I’m used to. However, when Coronavirus ends, I might be moving into Tampa, having a more normal life. On the bright side, I can use my friends home gym and spend more time writing stuff like this.</description>
     </item>
     
     <item>

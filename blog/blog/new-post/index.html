@@ -40,16 +40,29 @@
 
 <script type="application/ld+json">
   
-    { 
-      "@context": "http://schema.org", 
-      "@type": "WebSite", 
-      "url": "https:\/\/example.org\/now\/new-post\/",
-      "name": "New Post",
-      "author": {
-        "@type": "Person",
-        "name": ""
+    {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/example.org\/"
       },
-      "description": ""
+      "articleSection" : "blog",
+      "name" : "New Post",
+      "headline" : "New Post",
+      "description" : "",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2020",
+      "datePublished": "2020-08-11 14:34:13 -0500 CDT",
+      "dateModified" : "2020-08-11 14:34:13 -0500 CDT",
+      "url" : "https:\/\/example.org\/blog\/new-post\/",
+      "wordCount" : "3",
+      "keywords" : ["Blog"]
     }
   
   </script>
@@ -74,7 +87,8 @@
       </li>
     
       <li>
-        <a  href="/blog">blog</a>
+        <a  class="active"
+         href="/blog">blog</a>
       </li>
     
   </ul>
@@ -90,10 +104,11 @@
         <div class="post">
           <header class="post__header">
             <h1 id="post__title">New Post</h1>
-            <time datetime="2020-08-11 14:34:13 -0500 -0500" class="post__date">Aug 11 2020</time> 
+            <time datetime="2020-08-11 14:34:13 -0500 CDT" class="post__date">Aug 11 2020</time> 
           </header>
           <article class="post__content">
               
+<p>Some Example Text</p>
 
 
               
@@ -103,6 +118,11 @@
  <div class="pagination">
   
 
+  
+    <a class="pagination__item" href="https://example.org/blog/college-decision-day/">
+      <span class="pagination__label">Next Post</span>
+      <span class="pagination__title" >College Decision Day</a>
+    </a>
   
 </div>
 
@@ -127,7 +147,7 @@
      
 </div>
 
-            <p>© 2021</p>
+            <p>© 2020</p>
           </footer>
           </div>
       </div>
