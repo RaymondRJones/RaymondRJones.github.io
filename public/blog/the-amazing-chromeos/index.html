@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <title>Coding with Raymond - How to Get Minecraft on a Chromebook | Raymond</title>
+
+  <meta charset="UTF-8">
+  <meta name="language" content="en">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  
+  
+
+  <link rel="shortcut icon" type="image/png" href="/favicon.ico" />
+
+  
+  
+    
+ 
+  
+  
+  
+  
+  
+  
+    
+    <link type="text/css" rel="stylesheet" href="/css/post.min.2cb93c91050d1853bf971cc31e00122edd6e0f405aa1de3b7f8ef67ea3b5a79a.css" integrity="sha256-LLk8kQUNGFO/lxzDHgASLt1uD0Baod47f472fqO1p5o="/>
+  
+    
+    <link type="text/css" rel="stylesheet" href="/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU="/>
+  
+  
+   
+   
+    
+
+<script type="application/ld+json">
+  
+    {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/example.org\/"
+      },
+      "articleSection" : "blog",
+      "name" : "Coding with Raymond - How to Get Minecraft on a Chromebook",
+      "headline" : "Coding with Raymond - How to Get Minecraft on a Chromebook",
+      "description" : "",
+      "inLanguage" : "en-US",
+      "author" : "",
+      "creator" : "",
+      "publisher": "",
+      "accountablePerson" : "",
+      "copyrightHolder" : "",
+      "copyrightYear" : "2020",
+      "datePublished": "2020-11-17 23:16:03 -0500 EST",
+      "dateModified" : "2020-11-17 23:16:03 -0500 EST",
+      "url" : "https:\/\/example.org\/blog\/the-amazing-chromeos\/",
+      "wordCount" : "823",
+      "keywords" : ["Blog"]
+    }
+  
+  </script>
+</head>
+
+<body>
+  <div class="burger__container">
+  <div class="burger" aria-controls="navigation" aria-label="Menu">
+    <div class="burger__meat burger__meat--1"></div>
+    <div class="burger__meat burger__meat--2"></div>
+    <div class="burger__meat burger__meat--3"></div>
+  </div>
+</div>
+ 
+
+  <nav class="nav" id="navigation">
+  <ul class="nav__list">
+    
+    
+      <li>
+        <a  href="/">about</a>
+      </li>
+    
+      <li>
+        <a  class="active"
+         href="/blog">blog</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  <main>
+    
+    
+
+    <div class="flex-wrapper">
+      <div class="post__container">
+        <div class="post">
+          <header class="post__header">
+            <h1 id="post__title">Coding with Raymond - How to Get Minecraft on a Chromebook</h1>
+            <time datetime="2020-11-17 23:16:03 -0500 EST" class="post__date">Nov 17 2020</time> 
+          </header>
+          <article class="post__content">
+              
+<p>I have two sisters that are in 6th grade. Because their brains are so malleable, I figured I’d introduce them into the first step of using computers, by playing Minecraft. In most cases, it’d be simple. Just buy Minecraft and tell them to download it. Unfortunately, this did not happen.</p>
+<p>They told me they were using ChromeOS, which can’t run Minecraft. Everything was downhill from there. This is the cautionary tale of my journey to ChromeOS.</p>
+<p>To my surprise, ChromeOS couldn’t run Minecraft. In fact, it can only run mobile game software. This was astounding, but I was determined to find a way to get the game on there. I mean, I have a degree in Computer Science for a reason right?</p>
+<p>Linux seemed like the obvious choice. And I thought about completely wiping their drives and just installing Linux. I thought about how that was too overboard, and how maybe I could just use a virtual machine (It’s a pain to set up). Then, I realized, I could just use a live-persistent copy of a linux on a flash drive.</p>
+<p><strong>Live Persistent</strong></p>
+<p>Linux has this cool tool where you can carry your files wherever you go. You plug it into a computer, run the BIOS command, and you can instantly switch operating systems. You don’t need to run Minecraft on ChromeOS if you just use Linux on a USB drive to run it.</p>
+<p><strong>Creating a Live Persistent Flash Drive for Ubuntu</strong>
+This was the first step, because I’d never used Linux before, but it was pretty simple. I just downloaded an Ubuntu iso image file, and installed another program to burn that onto a flash drive. Then, I ended up mailing it to my sisters which took a couple of days. The plan was to simply put the flash drive in and press the Chrome commands to boot from the USB. It works that way on Windows right? How hard could it be?</p>
+<p>Yes, you’re right. It went terribly, and our adventure continues.</p>
+<p><strong>Enabling USB Booting on Chrome</strong>
+Unlike Windows, which can easily boot from a USB by pressing 2 buttons, ChromeOS apparently was hell-bent on ruining my life. I realized ChromeOS won’t allow Bios access unless developer mode is enabled.</p>
+<p>This entire concept took me an eternity to solve. I spent maybe 5 hours reading Wikihows and documents and directing my technologically inept sister how to do this process. It was painful and terrible.</p>
+<p>For the 2 people who plan on buying a ChromeOS and want to unlock its full potential keep reading.</p>
+<p><strong>How to Enable USB Booting on ChromeOS</strong></p>
+<p>Basically, ChromeOS decided to make modifying the back-end of the OS hell. 1.) You need to enter Developer Mode (Which wipes the entire hard drive, so sucks to suck if you didn’t plan on backing up your entire hard drive) 2.) Once inside developer mode, your still limited by ChromeOS’s terrible firmware so you can’t even fully customize things.</p>
+<p>Enter MrChromeBox.tech, a guy who manually fixed these problems. He goes above and beyond by explaining every little nuance related to ChromeOS, like how running Ubuntu on most devices will disable the audio entirely (Thank you again ChromeOS). <a href="https://mrchromebox.tech/"> Here’s his website. </a></p>
+<p>To summarize, It just boils down to this:
+<strong>1.)	Enable Chrome Developer Mode</strong></p>
+<p>In order to do any hands-on stuff, developer mode needs to be enabled. This will wipe the hard drive of the Chrome device for whatever reason. Also, it’s extremely easy to switch between these processes, simply by pressing space bar in the middle of it (The firmware can disable this though)</p>
+<p>There’s like three commands, the tutorial has the info on how to do this ( Because it depends on your laptop model.</p>
+<p><strong>2.)	Install the Firmware Utility Script</strong>
+Again, in the link, this is as simple as copying and pasting his commands in the chrome terminal. He makes a note that this must be in chronos, not root. So just open a guest window and use that terminal</p>
+<p>I had an odd bug where I couldn’t use Sudo as chronos. I had to go into root, create a password for chronos, and then go back and use sudo as chronos.
+<strong>3.)	Enable Firmware options by pressing 1</strong></p>
+<p>And there you go. If you’ve followed along so far, you’ll be surprised to notice that you can easily undo any of these changes by pressing spacebar when your Chromebook initially boots. In which case, you’ll have to spend $15 for a unique cable to fix this, <em>or</em>, you could re-do the dev mode process again (yay!).</p>
+<p><strong>That’s All Folks</strong></p>
+<p>I hope you enjoyed this because I didn’t. At the end of the day, I managed to bypass ChromeOS’s bullshit and allow my sisters to play Minecraft on their laptops. You can imagine my surprise when the game was laggy and slow, so she stopped playing it after about 30 minutes.</p>
+<p>All in all, 10 out of 10 would recommend.</p>
+
+
+              
+          </article>
+          
+
+ <div class="pagination">
+  
+    <a class="pagination__item" href="https://example.org/blog/learning-korean-1/">
+        <span class="pagination__label">Previous Post</span>
+        <span class="pagination__title">I&#39;m spending $1000 to learn Korean</span>
+    </a>
+  
+
+  
+    <a class="pagination__item" href="https://example.org/blog/updates/">
+      <span class="pagination__label">Next Post</span>
+      <span class="pagination__title" >Updates</a>
+    </a>
+  
+</div>
+
+          
+          <footer class="post__footer">
+            
+
+
+<div class="social-icons">
+  
+     
+    
+  
+     
+    
+      <a class="social-icons__link" title="GitHub"
+         href="https://github.com/RaymondRJones"
+         target="_blank" rel="noopener">
+        <div class="social-icons__icon" style="background-image: url('https://example.org/svg/github.svg')"></div>
+      </a>
+    
+     
+</div>
+
+            <p>© 2021</p>
+          </footer>
+          </div>
+      </div>
+      
+    </div>
+    
+
+  </main>
+
+   
+
+  
+  <script src="/js/index.min.49e4d8a384357d9b445b87371863419937ede9fa77737522ffb633073aebfa44.js" integrity="sha256-SeTYo4Q1fZtEW4c3GGNBmTft6fp3c3Ui/7YzBzrr&#43;kQ=" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://unpkg.com/prismjs@1.20.0/components/prism-core.min.js"></script>
+
+  
+  <script src="https://unpkg.com/prismjs@1.20.0/plugins/autoloader/prism-autoloader.min.js"
+    data-autoloader-path="https://unpkg.com/prismjs@1.20.0/components/"></script>
+
+  
+
+
+</body>
+
+</html>
