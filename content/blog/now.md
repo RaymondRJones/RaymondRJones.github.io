@@ -10,26 +10,29 @@ math: false
 toc: false
 ---
 <h2 style="text-align: center;">
-Last Updated: November 17th, 2020
+Last Updated: July 5th, 2021
 </h2>
+
+I’m currently living and working in Orlando. Being vaccinated means I can start shifting my old hobbies of being inside all day to having more social opportunities. 
 
 **Working Full Time**
 
-I’ve been developing software for Citibank since August. Most of my days are spent at my computer desk, which is a shocking difference to what I’m used to. Their office won’t be opening until March, so I might just live with my parents and save money until then.
+I’ve been working as a developer at Citibank for a year. I’m also trying to solve every problem in the ELPI book. I think I’m at about 50 out of 200. 
 
-**Improving Cardio**
+**Getting Back into Weightlifting**
 
- I’ve been running probably the most since I was in high school, and I can thank David Goggins for motivating me for that. I’ve also been stretching, and I’m probably the most flexible than I’ve ever been. 
+ The pandemic meant not lifting weights for a year, so I’ve been following a schedule to bring my strength back to where it used to be.  
 
-**Improving Writing**
+**Dancing Classes**
 
-I write maybe 10,000 words every week, and I share very little of it. I enjoy writing, and I hate sharing it. Which is odd because I guess it should be something people want to read if I don’t mind reading it. Rather than be a stereotypical shut-in nerd whose socially inept, I’d like to improve my communication skills. So, I’ll try publicly sharing some of the things I write at the end of the week. 
-
-**Learning Korean**
-
-I meet up with language tutors about 3 times per week. And outside of that, I try to listen to 
+I used to dance a lot. And now, I get to continue doing it. Aside from being a fun way to spend my weekends, it’s also a nice way for me to meet new people in the Orlando area. 
 
 **Photography**
 
-I decided to learn portrait photography. I bought a fancy camera, and I’ve been playing around with different shots with it. Most of my time has been spent studying other photographs and listening to professional photographer’s tips.
+I’ve been taking around 100 photos every weekend. It’s been really cool to practice and think about composition of photos. And my entire view of how I see images and the effects they bring on the mind have significantly changed since practicing it.
+
+**Solving Algorithm Problems**
+
+I'm still occasionally solving algorithm problems on the weekends. I want to keep my programming skills sharp, and this is a necessary component of that. 
+
 
