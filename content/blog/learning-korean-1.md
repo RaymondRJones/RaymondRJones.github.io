@@ -9,6 +9,9 @@ tags: []
 math: false
 toc: false
 ---
+
+*UPDATE: I failed at this challenge and it exists now only as click-bait. I went to about 4 classes before ultitamtely giving up and probably watching television instead. But I think this could be a cool idea for a future challenge*
+
 Since August of 2019, I’ve been learning Korean. For longest time, I’ve wanted to continue learning it, but I’ve been woefully unmotivated. That’s changing today, and I’m going to invest $1000 towards being able to speak the language.
 
 I’m doing this, partly because I want to be outrageous and partly because I want to commit to learning another language.

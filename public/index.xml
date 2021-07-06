@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Thu, 10 Jun 2021 18:20:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jul 2021 21:39:27 -0400</lastBuildDate>
     
 	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Creative Lifestyle</title>
+      <link>https://example.org/blog/a-creative-lifestyle/</link>
+      <pubDate>Mon, 05 Jul 2021 21:39:27 -0400</pubDate>
+      
+      <guid>https://example.org/blog/a-creative-lifestyle/</guid>
+      <description>On Creativity
+I was walking to a salsa event with one of my friends. She told me how, as a photographer, I’m probably used to being isolated to work on projects. I was confused.
+I’ve don’t consider myself a creative person. I like making jokes and writing semi-interesting stories, but it’s never felt creative. It wasn’t until I started reading Big Magic that I started wondering what creativity means to me.</description>
+    </item>
     
     <item>
       <title>Learning From Failure</title>
@@ -18,7 +29,8 @@
       <pubDate>Thu, 10 Jun 2021 18:20:17 -0400</pubDate>
       
       <guid>https://example.org/blog/learning-from-failure/</guid>
-      <description></description>
+      <description>In 2015, I wrote a series of essays for college applications, and this might be one of my favorites because it summarizes my thoughts on life.
+I left my house and started running my usual route. I passed houses and continued to follow the white, concrete pavement until I arrived at the park. Jogging there was the warmup, and the actual workout would begin at the park. I started sprinting up and down a field until breathing became a struggle.</description>
     </item>
     
     <item>
@@ -93,10 +105,10 @@ A book of even more problems than CTCI, AND they’re harder. I solved a lot of 
       <pubDate>Wed, 12 Aug 2020 18:48:45 -0500</pubDate>
       
       <guid>https://example.org/blog/now/</guid>
-      <description>Last Updated: November 17th, 2020Working Full Time
-I’ve been developing software for Citibank since August. Most of my days are spent at my computer desk, which is a shocking difference to what I’m used to. Their office won’t be opening until March, so I might just live with my parents and save money until then.
-Improving Cardio
-I’ve been running probably the most since I was in high school, and I can thank David Goggins for motivating me for that.</description>
+      <description>Last Updated: July 5th, 2021I’m currently living and working in Orlando. Being vaccinated means I can start shifting my old hobbies of being inside all day to having more social opportunities.
+Working Full Time
+I’ve been working as a developer at Citibank for a year. I’m also trying to solve every problem in the ELPI book. I think I’m at about 50 out of 200.
+Getting Back into Weightlifting</description>
     </item>
     
     <item>
