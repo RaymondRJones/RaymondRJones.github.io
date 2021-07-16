@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 05 Jul 2021 21:39:27 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jul 2021 17:40:30 -0400</lastBuildDate>
     
 	<atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dosha</title>
+      <link>https://example.org/blog/dosha/</link>
+      <pubDate>Fri, 16 Jul 2021 17:40:30 -0400</pubDate>
+      
+      <guid>https://example.org/blog/dosha/</guid>
+      <description>Dosha
+I’ve always enjoyed taking personality tests. I like things that help me better understand myself, and this shouldn’t be a surprise because I have a blog dedicated to reflecting and musings.
+I recently heard Dr.K talk about how it’s important to understand your Dosha. Or maybe he didn’t say that, but rather, that Doshas can be a good way to understand yourself. In his case, understanding that he was Vata meant going from a failing student to Harvard psychiatrist.</description>
+    </item>
     
     <item>
       <title>A Creative Lifestyle</title>

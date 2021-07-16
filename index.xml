@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 05 Jul 2021 21:39:27 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jul 2021 17:40:30 -0400</lastBuildDate>
     
 	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dosha</title>
+      <link>https://example.org/blog/dosha/</link>
+      <pubDate>Fri, 16 Jul 2021 17:40:30 -0400</pubDate>
+      
+      <guid>https://example.org/blog/dosha/</guid>
+      <description>Dosha
+I’ve always enjoyed taking personality tests. I like things that help me better understand myself, and this shouldn’t be a surprise because I have a blog dedicated to reflecting and musings.
+I recently heard Dr.K talk about how it’s important to understand your Dosha. Or maybe he didn’t say that, but rather, that Doshas can be a good way to understand yourself. In his case, understanding that he was Vata meant going from a failing student to Harvard psychiatrist.</description>
+    </item>
     
     <item>
       <title>A Creative Lifestyle</title>
@@ -59,10 +70,8 @@ They told me they were using ChromeOS, which can’t run Minecraft. Everything w
       <pubDate>Tue, 10 Nov 2020 22:11:28 -0500</pubDate>
       
       <guid>https://example.org/blog/learning-korean-1/</guid>
-      <description>Since August of 2019, I’ve been learning Korean. For longest time, I’ve wanted to continue learning it, but I’ve been woefully unmotivated. That’s changing today, and I’m going to invest $1000 towards being able to speak the language.
-I’m doing this, partly because I want to be outrageous and partly because I want to commit to learning another language.
-My Favorite Language Learning Strategies
-I’m constantly evaluating my strategy, and I think I’ve found a winning one.</description>
+      <description>UPDATE: I failed at this challenge and it exists now only as click-bait. I went to about 4 classes before ultitamtely giving up and probably watching television instead. But I think this could be a cool idea for a future challenge
+Since August of 2019, I’ve been learning Korean. For longest time, I’ve wanted to continue learning it, but I’ve been woefully unmotivated. That’s changing today, and I’m going to invest $1000 towards being able to speak the language.</description>
     </item>
     
     <item>
