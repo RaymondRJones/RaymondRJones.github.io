@@ -66,3 +66,9 @@ copyright = "© {year}"
   title = "Blog"
   url = "/blog"
 
+[[menu.main]]
+identifier = "app"
+name = "app"
+title = "App"
+url = "/app"
+
