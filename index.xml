@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Tue, 27 Jul 2021 18:14:17 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jul 2021 10:02:58 -0400</lastBuildDate>
     
 	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Always Wanting</title>
+      <link>https://example.org/blog/always-wanting/</link>
+      <pubDate>Sat, 31 Jul 2021 10:02:58 -0400</pubDate>
+      
+      <guid>https://example.org/blog/always-wanting/</guid>
+      <description>Hedonic Treadmill
+When I was younger I loved this idea called the Hedonic Treadmill. Eventually it became part of my core life philosophy. For the uninitiated, it’s a psychological theory that suggests humans constantly want things. And when they get what they want, they just want more of that.
+Take drug use for example. Using a drug feels good the first time. After using it, your body adapts to it, and then, you need more and more of the drug to reach the same high.</description>
+    </item>
     
     <item>
       <title>Test</title>
@@ -74,7 +85,7 @@ They told me they were using ChromeOS, which can’t run Minecraft. Everything w
     </item>
     
     <item>
-      <title>I&#39;m spending $1000 to learn Korean</title>
+      <title>I spent $200 trying to learn Korean</title>
       <link>https://example.org/blog/learning-korean-1/</link>
       <pubDate>Tue, 10 Nov 2020 22:11:28 -0500</pubDate>
       
