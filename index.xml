@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 31 Jul 2021 10:02:58 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 16:54:38 -0400</lastBuildDate>
     
 	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Buying My First Iphone</title>
+      <link>https://example.org/blog/buying-my-first-iphone/</link>
+      <pubDate>Wed, 25 Aug 2021 16:54:38 -0400</pubDate>
+      
+      <guid>https://example.org/blog/buying-my-first-iphone/</guid>
+      <description>I got my first smartphone at 11 years old. It was a Android, a Sony Xperia Play.
+My amazing phone in 2009
+I noticed that all of my friends were obsessed with Apple, and this trend never stopped. When I started college, I noticed people wouldn’t invite you to group chats unless you had an Iphone.
+I didn’t care for texting, so I never really cared. Also, I loved the quality hardware and full device freedom that Android offered, like right to repair.</description>
+    </item>
     
     <item>
       <title>Always Wanting</title>
