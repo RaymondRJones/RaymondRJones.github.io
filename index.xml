@@ -36,15 +36,6 @@ Take drug use for example. Using a drug feels good the first time. After using i
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://example.org/app1/test/</link>
-      <pubDate>Tue, 27 Jul 2021 18:14:17 -0400</pubDate>
-      
-      <guid>https://example.org/app1/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dosha</title>
       <link>https://example.org/blog/dosha/</link>
       <pubDate>Fri, 16 Jul 2021 17:40:30 -0400</pubDate>
@@ -64,6 +55,24 @@ I recently heard Dr.K talk about how it’s important to understand your Dosha. 
       <description>On Creativity
 I was walking to a salsa event with one of my friends. She told me how, as a photographer, I’m probably used to being isolated to work on projects. I was confused.
 I’ve don’t consider myself a creative person. I like making jokes and writing semi-interesting stories, but it’s never felt creative. It wasn’t until I started reading Big Magic that I started wondering what creativity means to me.</description>
+    </item>
+    
+    <item>
+      <title>Gator Placer</title>
+      <link>https://example.org/projects/gatorplacer/</link>
+      <pubDate>Mon, 05 Jul 2021 21:39:27 -0400</pubDate>
+      
+      <guid>https://example.org/projects/gatorplacer/</guid>
+      <description>GatorPlacer</description>
+    </item>
+    
+    <item>
+      <title>Seat Compass</title>
+      <link>https://example.org/projects/seatcompass/</link>
+      <pubDate>Mon, 05 Jul 2021 21:39:27 -0400</pubDate>
+      
+      <guid>https://example.org/projects/seatcompass/</guid>
+      <description>Seat Compass</description>
     </item>
     
     <item>
@@ -114,15 +123,6 @@ Since August of 2019, I’ve been learning Korean. For longest time, I’ve want
       <guid>https://example.org/blog/how-to-invest/</guid>
       <description>I’ve heard people describe investing as complicated or scary. I wanted to change that. I’ve read like 5 different finance books, and I like money. I end up telling my friends this stuff because I think it’s interesting. Also, investing late, or worse, never investing, can easily lose $100,000+ in gains.
 Warren Buffet and most financial advisors agree that a lifecycle fund or an index fund is the best way to invest as a beginner.</description>
-    </item>
-    
-    <item>
-      <title>My Story</title>
-      <link>https://example.org/blog/my-story/</link>
-      <pubDate>Wed, 12 Aug 2020 19:03:24 -0500</pubDate>
-      
-      <guid>https://example.org/blog/my-story/</guid>
-      <description></description>
     </item>
     
     <item>
