@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Wed, 25 Aug 2021 16:54:38 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 06 Sep 2021 14:06:32 -0400</lastBuildDate>
     
 	<atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Im_24</title>
+      <link>https://example.org/blog/im_24/</link>
+      <pubDate>Mon, 06 Sep 2021 14:06:32 -0400</pubDate>
+      
+      <guid>https://example.org/blog/im_24/</guid>
+      <description>I’m 24Yesterday was my 24th birthday. And for the past 4 years, I’ve written a reflection of my year. My 24th birthday will be no exception.
+Since I was 15, most of my time was spent waking up, working, and then going to sleep. This year was wildly different. I worked the least amount in my life since I was 13 years old. I’ve decided that I don’t really like it.</description>
+    </item>
     
     <item>
       <title>Buying My First Iphone</title>
@@ -98,6 +108,16 @@ Since August of 2019, I’ve been learning Korean. For longest time, I’ve want
     </item>
     
     <item>
+      <title>Im_23</title>
+      <link>https://example.org/blog/im_23/</link>
+      <pubDate>Sun, 06 Sep 2020 14:14:26 -0400</pubDate>
+      
+      <guid>https://example.org/blog/im_23/</guid>
+      <description>I managed to graduate college! And thus, I fulfilled a long lasting life goal, and you could even argue that this was my biggest goal in life. I worked hard day after day, and I failed and failed, but I never gave up. And I got a kickass well paying job lined up too. It was a very relaxed way to go through one of my last semesters.
+ Got to spend a lot of time with friends Learned a lot of Operating Systems after retaking the class and having to restudy the material Went to Grace Hopper and loved the idea of a career fair Fostered two amazing kittens Hit new PRs in the gym Learned beginner Korean Got really good at solving algorithm problems Learned enough to get flown out to California Used my rage to write about how shitty job interviews are Got to survive and understand my psyche during a Pandemic Read a lot of books about finance and and grasping basics of the economy Started working for a bank  A lot of it’s intangible, and to be fair, my writing this past year has been very limited.</description>
+    </item>
+    
+    <item>
       <title>How to Invest</title>
       <link>https://example.org/blog/how-to-invest/</link>
       <pubDate>Sat, 15 Aug 2020 18:59:18 -0500</pubDate>
@@ -150,6 +170,15 @@ Getting Back into Weightlifting</description>
       
       <guid>https://example.org/blog/new-post/</guid>
       <description>Some Example Text</description>
+    </item>
+    
+    <item>
+      <title>Im_22</title>
+      <link>https://example.org/blog/im_22/</link>
+      <pubDate>Fri, 06 Sep 2019 14:10:01 -0400</pubDate>
+      
+      <guid>https://example.org/blog/im_22/</guid>
+      <description>Every year, I write a reflection on my birthday year. And generally, they all say, “this year was great and I love my friends”. That isn’t happening today. Today’s my 22nd birthday. The past year has easily been one of my worst, but don’t get me wrong, the past 3 months were some of the best of my life. I’m thankful for the interns I met. And I’m even more thankful for all my friends who I could spend time with on my birthday.</description>
     </item>
     
     <item>
