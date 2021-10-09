@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Mon, 06 Sep 2021 14:06:32 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 09 Oct 2021 01:49:54 -0400</lastBuildDate>
     
 	<atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3 Most Influential 2020</title>
+      <link>https://example.org/blog/3-most-influential-2020/</link>
+      <pubDate>Sat, 09 Oct 2021 01:49:54 -0400</pubDate>
+      
+      <guid>https://example.org/blog/3-most-influential-2020/</guid>
+      <description>I have a list of the most influential people on my life since the 2020 pandemic hit. I found 3 people who’ve fundamentally changed who I am.
+The First
+The first is unexpected, but Juice Wrld. The entire concept of emo rap was foreign to me. Although Drake paved the way for rappers to talk about their feelings, Juice took it to another level. Where rap was supposed to be rapping about girls, drugs, and how many people you can kill.</description>
+    </item>
     
     <item>
       <title>Im_24</title>
