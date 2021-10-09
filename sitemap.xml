@@ -4,16 +4,21 @@
   
   <url>
     <loc>https://example.org/</loc>
-    <lastmod>2021-10-09T01:49:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/blog/3-most-influential-2020/</loc>
-    <lastmod>2021-10-09T01:49:54-04:00</lastmod>
+    <lastmod>2021-10-09T09:14:46-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.org/blog/</loc>
+    <lastmod>2021-10-09T09:14:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/importance-of-writing/</loc>
+    <lastmod>2021-10-09T09:14:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/3-most-influential-2020/</loc>
     <lastmod>2021-10-09T01:49:54-04:00</lastmod>
   </url>
   

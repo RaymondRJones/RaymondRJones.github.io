@@ -7,20 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 09 Oct 2021 01:49:54 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 09 Oct 2021 09:14:46 -0400</lastBuildDate>
     
 	<atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>3 Most Influential 2020</title>
+      <title>Why Writing is Important</title>
+      <link>https://example.org/blog/importance-of-writing/</link>
+      <pubDate>Sat, 09 Oct 2021 09:14:46 -0400</pubDate>
+      
+      <guid>https://example.org/blog/importance-of-writing/</guid>
+      <description>Writing was one of my favorite hobbies when I entered high school. Eventually, blogging became a close second. When I would have a spectacularly bad day, writing my thoughts out would immediately help clear my mind and make me feel better. When I had a crazy idea and wanted to expand on it, writing gave me a nice place to put the thoughts together. When I wanted to just have fun and talk about some joke, I could do that through writing.</description>
+    </item>
+    
+    <item>
+      <title>My Top 3 Most Influential Creators in 2020</title>
       <link>https://example.org/blog/3-most-influential-2020/</link>
       <pubDate>Sat, 09 Oct 2021 01:49:54 -0400</pubDate>
       
       <guid>https://example.org/blog/3-most-influential-2020/</guid>
       <description>I have a list of the most influential people on my life since the 2020 pandemic hit. I found 3 people who’ve fundamentally changed who I am.
-The First
-The first is unexpected, but Juice Wrld. The entire concept of emo rap was foreign to me. Although Drake paved the way for rappers to talk about their feelings, Juice took it to another level. Where rap was supposed to be rapping about girls, drugs, and how many people you can kill.</description>
+The First The first is unexpected, but Juice Wrld. The entire concept of emo rap was foreign to me. Although Drake paved the way for rappers to talk about their feelings, Juice took it to another level. Where rap was supposed to be rapping about girls, drugs, and how many people you can kill.</description>
     </item>
     
     <item>
