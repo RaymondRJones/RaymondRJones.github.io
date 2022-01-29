@@ -4,12 +4,27 @@
   
   <url>
     <loc>https://example.org/</loc>
-    <lastmod>2021-10-09T09:14:46-04:00</lastmod>
+    <lastmod>2022-01-29T16:19:52-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.org/blog/</loc>
-    <lastmod>2021-10-09T09:14:46-04:00</lastmod>
+    <lastmod>2022-01-29T16:19:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/trying-digital-nomad/</loc>
+    <lastmod>2022-01-29T16:19:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/40-day-leetcode/</loc>
+    <lastmod>2022-01-29T16:19:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/death-and-loss/</loc>
+    <lastmod>2021-12-10T16:21:59-05:00</lastmod>
   </url>
   
   <url>
@@ -109,11 +124,6 @@
   
   <url>
     <loc>https://example.org/blog/college-decision-day/</loc>
-    <lastmod>2020-08-11T14:34:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/blog/new-post/</loc>
     <lastmod>2020-08-11T14:34:13-05:00</lastmod>
   </url>
   

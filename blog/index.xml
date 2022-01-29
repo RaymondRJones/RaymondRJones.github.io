@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 09 Oct 2021 09:14:46 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jan 2022 16:19:52 -0500</lastBuildDate>
     
 	<atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Trying Digital Nomad</title>
+      <link>https://example.org/blog/trying-digital-nomad/</link>
+      <pubDate>Sat, 29 Jan 2022 16:19:52 -0500</pubDate>
+      
+      <guid>https://example.org/blog/trying-digital-nomad/</guid>
+      <description>I arrived in Costa Rica about 4 days ago, and it’s been an interesting experience. I sit down in a hotel with spotty Wifi getting about 1MB download speed. My video meetings sometimes lag, and my Tik Tok videos refuse to load occasionally. But it’s cool because I get to talk to people from different parts of the world.
+I thought working while travelling would mean sipping pina coladas on a beach and feeling an overwhelming sense of happiness.</description>
+    </item>
+    
+    <item>
+      <title>40 Day Leetcode</title>
+      <link>https://example.org/blog/40-day-leetcode/</link>
+      <pubDate>Sat, 29 Jan 2022 16:19:39 -0500</pubDate>
+      
+      <guid>https://example.org/blog/40-day-leetcode/</guid>
+      <description>I had a turning point at 12 years old where I was obsessed with growth. I realized that I could stop getting C’s and B’s if I studied by reading the book beforehand. I realized that I could run faster if I practice running faster. This never stopped.
+In 10th grade, I convinced myself that I wanted to learn Spanish. I would talk to any Spanish person I could find. The internet was amazing for this.</description>
+    </item>
+    
+    <item>
+      <title>Death and Loss</title>
+      <link>https://example.org/blog/death-and-loss/</link>
+      <pubDate>Fri, 10 Dec 2021 16:21:59 -0500</pubDate>
+      
+      <guid>https://example.org/blog/death-and-loss/</guid>
+      <description>Two months ago, my grandma passed away. I wanted to write and share something about it. I wanted to write something that would help other people when someone they care about disappears forever. But I never had the opportunity, I was too busy studying algorithms to pass job interviews.
+A lot has happened in the past 2 months though, and her passing away has surprised me in a lot of ways.</description>
+    </item>
     
     <item>
       <title>Why Writing is Important</title>
@@ -167,10 +197,10 @@ A book of even more problems than CTCI, AND they’re harder. I solved a lot of 
       <pubDate>Wed, 12 Aug 2020 18:48:45 -0500</pubDate>
       
       <guid>https://example.org/blog/now/</guid>
-      <description>Last Updated: July 5th, 2021I’m currently living and working in Orlando. Being vaccinated means I can start shifting my old hobbies of being inside all day to having more social opportunities.
+      <description>Last Updated: January 29th, 2022I’m currently living and working in Orlando. After work and going to the gym, I usually stream at https://www.twitch.tv/rayjones2170 where I talk about tech, interviews, and resumes.
 Working Full Time
 I’ve been working as a developer at Citibank for a year. I’m also trying to solve every problem in the ELPI book. I think I’m at about 50 out of 200.
-Getting Back into Weightlifting</description>
+Solving Algorithm Problems</description>
     </item>
     
     <item>
@@ -180,15 +210,6 @@ Getting Back into Weightlifting</description>
       
       <guid>https://example.org/blog/college-decision-day/</guid>
       <description>It&amp;rsquo;s that special, wonderful time of the year. Thousands of students wake up each month with a mixed sense of anxiety and excitement. When their classes end, they&amp;rsquo;ll go home and hear about how their friends got accepted into Duke and MIT, then they&amp;rsquo;ll schizophrenically debate with themselves whether they should check or not if they got into their dream school. I mean, if Thomas got in, then why shouldn&amp;rsquo;t they?</description>
-    </item>
-    
-    <item>
-      <title>New Post</title>
-      <link>https://example.org/blog/new-post/</link>
-      <pubDate>Tue, 11 Aug 2020 14:34:13 -0500</pubDate>
-      
-      <guid>https://example.org/blog/new-post/</guid>
-      <description>Some Example Text</description>
     </item>
     
     <item>
